@@ -1,4 +1,4 @@
-# Hey, I'm YOUR_NAME 👋
+# Hey, I'm NIKSON SHRESTHA 👋
 
 ### `Full-Stack Developer` · `Open Source Enthusiast` · `Problem Solver`
 
@@ -58,101 +58,20 @@
 
 ---
 
-## ⭐ Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🔥 Project One
-
-A short description of your most impressive project.
-
-**Tech:** `React` `Node.js` `PostgreSQL`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_ONE">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### ⚡ Project Two
-
-Another project that demonstrates what you can build.
-
-**Tech:** `Next.js` `TypeScript` `MongoDB`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_TWO">
-View Project →
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🧠 Project Three
-
-An interesting project, experiment, or open-source contribution.
-
-**Tech:** `Python` `AI` `FastAPI`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_THREE">
-View Project →
-</a>
-
-</td>
-
-<td width="50%">
-
-### 🌎 Project Four
-
-Something useful, creative, or technically challenging.
-
-**Tech:** `TypeScript` `Docker` `AWS`
-
-<a href="https://github.com/YOUR_USERNAME/PROJECT_FOUR">
-View Project →
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
-</p>
-
----
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
 I'm always interested in interesting projects, collaborations, and conversations.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/nikson-shrestha-8483ab174/">LinkedIn</a>
   ·
-  <a href="mailto:YOUR_EMAIL@example.com">Email</a>
+  <a href="mailto:niksonshrestha7.com">Email</a>
   ·
-  <a href="https://YOUR_WEBSITE.com">Website</a>
+  <a href="https://niksonshrestha.com.np/">Website</a>
   ·
-  <a href="https://github.com/YOUR_USERNAME">GitHub</a>
+  <a href="https://github.com/niksonstha">GitHub</a>
 </p>
 
 <br>
