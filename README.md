@@ -5,13 +5,13 @@
 > I build things for the web, experiment with new technologies, and enjoy turning ideas into clean, useful products.
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&style=for-the-badge&color=181717" />
+  <a href="https://github.com/niksonstha">
+    <img src="https://img.shields.io/github/followers/niksonstha?label=Followers&style=for-the-badge&color=181717" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME?tab=repositories">
-    <img src="https://img.shields.io/github/stars/YOUR_USERNAME?affiliations=OWNER&style=for-the-badge&color=181717" />
+  <a href="https://github.com/niksonstha?tab=repositories">
+    <img src="https://img.shields.io/github/stars/niksonstha?affiliations=OWNER&style=for-the-badge&color=181717" />
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/nikson-shrestha-8483ab174/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
